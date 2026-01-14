@@ -1,5 +1,6 @@
-<h1>alvaro-curso-de-programacion 2 </h1>
-Aquí presento el primer avance de la creación de mi primera web
-<p> <strong>Como actualización adjunto una captura de pantalla de como se encuentra el codigo actualmente. </strong></p>
+![image.png](image.png)
+<h1>alvaro-curso-de-programacion 2 </h1> 
+<p> creación del primer codigo de la web
 
-![captura de pantalla notepad++](image.png)
+
+
