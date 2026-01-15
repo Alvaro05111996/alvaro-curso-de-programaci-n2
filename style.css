@@ -1,0 +1,54 @@
+p {
+    color: black;
+    font-size: 16px;
+}
+
+h1 {
+    color: blue;
+}
+ul > li {
+    list-style: square;
+    color: red;
+}
+ol > li {
+    list-style: square;
+    color: blue;
+}
+h2 {
+    color: green;
+}
+p {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 25%;
+}
+a {
+    margin: 200px;
+}
+img{
+    margin-left: 90px;
+    margin-bottom: 60px;
+}
+.container{
+    position: fixed;
+    bottom:10px;
+    right: 10px;
+    left: 10;
+    top: 10;
+}
+.lista{
+   position: fixed;
+    bottom:60px;
+    right: 10px;
+    left: 10;
+    top: 50; 
+}
+h3{
+    color: #07a1e9;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
