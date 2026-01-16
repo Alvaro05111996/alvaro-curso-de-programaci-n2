@@ -1,6 +1,6 @@
 ### alvaro-curso-de-programacion 2  
 
- creación del primer codigo de la web
+ creación del primer codigo de la web del primer nivel de formación para programar una pagina web
 
 ![image.png](image.png)
 
